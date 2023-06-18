@@ -1,0 +1,11 @@
+
+=========================================
+Nombre: Emiliano Madrigal
+Tour: Volcan Poas
+Personas: 10
+Transporte: si
+Dias: 1
+Alimentacion: almuerzo
+Precio: 10000
+
+=========================================

@@ -1,0 +1,13 @@
+
+=========================================
+Tours Disponibles: 
+
+ {'nombreTour': 'Volcan Irazu', 
+'precioTour': 12000,
+ 'precioTransporte': 12000, 
+'lugar': 'Cartago',
+ 'salida': 'San Jose',
+ 'dias': 1,
+ 'espacio': 10,
+ 'actividades': 'ir al volcan ida y vuelta',
+ 'alimentacion': 'Almuerzo'}]
